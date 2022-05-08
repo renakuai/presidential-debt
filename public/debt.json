@@ -1,0 +1,407 @@
+[
+  {
+    "id": "45",
+    "President": "Donald Trump",
+    "Party": "Republican",
+    "Year": "2017 - Present",
+    "Debt_change_total": "6,807,290,102,465.77",
+    "Debt_change_perc": "33.62",
+    "Debt_change_percperyear": "4.48"
+  },
+  {
+    "id": "44",
+    "President": "Barack Obama",
+    "Party": "Democrat",
+    "Year": "2009 - 2017",
+    "Debt_change_total": "8,335,071,012,541.80",
+    "Debt_change_perc": "69.98",
+    "Debt_change_percperyear": "8.24"
+  },
+  {
+    "id": "43",
+    "President": "George W. Bush",
+    "Party": "Republican",
+    "Year": "2001 - 2009",
+    "Debt_change_total": "6,102,365,591,311.64",
+    "Debt_change_perc": "105.08",
+    "Debt_change_percperyear": "8.67"
+  },
+  {
+    "id": "42",
+    "President": "Bill Clinton",
+    "Party": "Democrat",
+    "Year": "1993 - 2001",
+    "Debt_change_total": "1,395,974,529,060.68",
+    "Debt_change_perc": "31.64",
+    "Debt_change_percperyear": "4.07"
+  },
+  {
+    "id": "41",
+    "President": "George H.W. Bush",
+    "Party": "Republican",
+    "Year": "1989 - 1993",
+    "Debt_change_total": "1,554,057,922,952.06",
+    "Debt_change_perc": "54.39",
+    "Debt_change_percperyear": "11.15"
+  },
+  {
+    "id": "40",
+    "President": "Ronald Reagan",
+    "Party": "Republican",
+    "Year": "1981 - 1989",
+    "Debt_change_total": "1,859,575,960,187.32",
+    "Debt_change_perc": "186.36",
+    "Debt_change_percperyear": "13.64"
+  },
+  {
+    "id": "39",
+    "President": "Jimmy Carter",
+    "Party": "Democrat",
+    "Year": "1977 - 1981",
+    "Debt_change_total": "299,015,000,000.00",
+    "Debt_change_perc": "42.79",
+    "Debt_change_percperyear": "9.98"
+  },
+  {
+    "id": "38",
+    "President": "Gerald Ford",
+    "Party": "Republican",
+    "Year": "1974 - 1977",
+    "Debt_change_total": "223,780,184,268.45",
+    "Debt_change_perc": "47.11",
+    "Debt_change_percperyear": "11.23"
+  },
+  {
+    "id": "37",
+    "President": "Richard Nixon",
+    "Party": "Republican",
+    "Year": "1969 - 1974",
+    "Debt_change_total": "121,339,561,890.14",
+    "Debt_change_perc": "34.30",
+    "Debt_change_percperyear": "5.37"
+  },
+  {
+    "id": "36",
+    "President": "Lyndon Johnson",
+    "Party": "Democrat",
+    "Year": "1963 - 1969",
+    "Debt_change_total": "47,860,620,845.00",
+    "Debt_change_perc": "15.65",
+    "Debt_change_percperyear": "2.48"
+  },
+  {
+    "id": "35",
+    "President": "John F. Kennedy",
+    "Party": "Democrat",
+    "Year": "1961 - 1963",
+    "Debt_change_total": "16,888,694,386.36",
+    "Debt_change_perc": "5.84",
+    "Debt_change_percperyear": "2.23"
+  },
+  {
+    "id": "34",
+    "President": "Dwight Eisenhower",
+    "Party": "Republican",
+    "Year": "1953 - 1961",
+    "Debt_change_total": "22,899,876,971.48",
+    "Debt_change_perc": "8.61",
+    "Debt_change_percperyear": "1.23"
+  },
+  {
+    "id": "33",
+    "President": "Harry S. Truman",
+    "Party": "Democrat",
+    "Year": "1945 - 1953",
+    "Debt_change_total": "7,388,874,228.64",
+    "Debt_change_perc": "2.86",
+    "Debt_change_percperyear": "3.53"
+  },
+  {
+    "id": "32",
+    "President": "Franklin D. Roosevelt",
+    "Party": "Democrat",
+    "Year": "1933 - 1945",
+    "Debt_change_total": "236,143,514,849.78",
+    "Debt_change_perc": "1047.73",
+    "Debt_change_percperyear": "23.90"
+  },
+  {
+    "id": "31",
+    "President": "Herbert Hoover",
+    "Party": "Republican",
+    "Year": "1929 - 1933",
+    "Debt_change_total": "5,607,584,076.05",
+    "Debt_change_perc": "33.12",
+    "Debt_change_percperyear": "5.44"
+  },
+  {
+    "id": "30",
+    "President": "Calvin Coolidge",
+    "Party": "Republican",
+    "Year": "1923 - 1929",
+    "Debt_change_total": "-5,418,618,881.26",
+    "Debt_change_perc": "-24.24",
+    "Debt_change_peryearinoffice": "-4.26"
+  },
+  {
+    "id": "29",
+    "President": "Warren Harding",
+    "Party": "Republican",
+    "Year": "1921 - 1923",
+    "Debt_change_total": "-1,627,743,187.18",
+    "Debt_change_perc": "-6.79",
+    "Debt_change_percperyear": "-4.84"
+  },
+  {
+    "id": "28",
+    "President": "Woodrew Wilson",
+    "Party": "Democrat",
+    "Year": "1913 - 1921",
+    "Debt_change_total": "21,061,245,638.88",
+    "Debt_change_perc": "722.21",
+    "Debt_change_percperyear": "34.78"
+  },
+  {
+    "id": "27",
+    "President": "William H. Taft",
+    "Party": "Republican",
+    "Year": "1909 - 1913",
+    "Debt_change_total": "276,658,672.62",
+    "Debt_change_perc": "10.48",
+    "Debt_change_percperyear": "2.12"
+  },
+  {
+    "id": "26",
+    "President": "Theodore Roosevelt",
+    "Party": "Republican",
+    "Year": "1901 - 1909",
+    "Debt_change_total": "496,219,307.15",
+    "Debt_change_perc": "23.15",
+    "Debt_change_percperyear": "2.40"
+  },
+  {
+    "id": "25",
+    "President": "William Mckinley",
+    "Party": "Republican",
+    "Year": "1897 - 1901",
+    "Debt_change_total": "325,654,267.99",
+    "Debt_change_perc": "17.92",
+    "Debt_change_percperyear": "4.00"
+  },
+  {
+    "id": "24",
+    "President": "Grover Cleveland",
+    "Party": "National Democrat",
+    "Year": "1893 - 1897",
+    "Debt_change_total": "271,686,979.77",
+    "Debt_change_perc": "17.92",
+    "Debt_change_percperyear": "2.78"
+  },
+  {
+    "id": "23",
+    "President": "Benjamin Harrison",
+    "Party": "Republican",
+    "Year": "1889 - 1893",
+    "Debt_change_total": "-73,067,236.10",
+    "Debt_change_perc": "-4.51",
+    "Debt_change_percperyear": "-1.76"
+  },
+  {
+    "id": "22",
+    "President": "Grover Cleveland",
+    "Party": "National Democrat",
+    "Year": "1885 - 1889",
+    "Debt_change_total": "-244,911,950.91",
+    "Debt_change_perc": "-13.14",
+    "Debt_change_percperyear": "-2.36"
+  },
+  {
+    "id": "21",
+    "President": "Chester Arthur",
+    "Party": "National Democrat",
+    "Year": "1881 - 1885",
+    "Debt_change_total": "-205,048,696.44",
+    "Debt_change_perc": "-9.91",
+    "Debt_change_percperyear": "-2.5"
+  },
+  {
+    "id": "20",
+    "President": "James Garfield",
+    "Party": "National Democrat",
+    "Year": "1881",
+    "Debt_change_total": "0",
+    "Debt_change_perc": "0",
+    "Debt_change_percperyear": "0"
+  },
+  {
+    "id": "19",
+    "President": "Rutherford B. Hayes",
+    "Party": "Republican",
+    "Year": "1877 - 1881",
+    "Debt_change_total": "-136,287,822.52",
+    "Debt_change_perc": "-6.81",
+    "Debt_change_percperyear": "-0.92"
+  },
+  {
+    "id": "18",
+    "President": "Ulysses S. Grant",
+    "Party": "Republican",
+    "Year": "1869 - 1877",
+    "Debt_change_total": "-383,150,821.84",
+    "Debt_change_perc": "-14.80",
+    "Debt_change_percperyear": "-1.84"
+  },
+  {
+    "id": "17",
+    "President": "Andrew Johnson",
+    "Party": "Democrat",
+    "Year": "1865 - 1869",
+    "Debt_change_total": "-92,195,655.80",
+    "Debt_change_perc": "-3.44",
+    "Debt_change_percperyear": "8.86"
+  },
+  {
+    "id": "16",
+    "President": "Abraham Lincoln",
+    "Party": "National Union",
+    "Year": "1861 - 1865",
+    "Debt_change_total": "2,590,066,996.02",
+    "Debt_change_perc": "2859.40",
+    "Debt_change_percperyear": "148.36"
+  },
+  {
+    "id": "15",
+    "President": "James Buchanon",
+    "Party": "Democrat",
+    "Year": "1857 - 1861",
+    "Debt_change_total": "61,881,041.87",
+    "Debt_change_perc": "215.61",
+    "Debt_change_percperyear": "25.41"
+  },
+  {
+    "id": "14",
+    "President": "Franklin Pierce",
+    "Party": "Democrat",
+    "Year": "1853 - 1857",
+    "Debt_change_total": "-31,103,285.85",
+    "Debt_change_perc": "-52.01",
+    "Debt_change_percperyear": "-15.03"
+  },
+  {
+    "id": "13",
+    "President": "Millard Fillmore",
+    "Party": "Know Nothing",
+    "Year": "1850 - 1853",
+    "Debt_change_total": "-3,649,655.85",
+    "Debt_change_perc": "-5.75",
+    "Debt_change_percperyear": "-1.12"
+  },
+  {
+    "id": "12",
+    "President": "Zachary Taylor",
+    "Party": "Whig",
+    "Year": "1849 - 1850",
+    "Debt_change_total": "390,914.86",
+    "Debt_change_perc": "0.62",
+    "Debt_change_percperyear": "0.63"
+  },
+  {
+    "id": "11",
+    "President": "James Polk",
+    "Party": "Democrat",
+    "Year": "1845 - 1849",
+    "Debt_change_total": "47,136,555.68",
+    "Debt_change_perc": "295.99",
+    "Debt_change_percperyear": "34.08"
+  },
+  {
+    "id": "10",
+    "President": "John Tyler",
+    "Party": "Whig",
+    "Year": "1841 - 1845",
+    "Debt_change_total": "10,674,427.47",
+    "Debt_change_perc": "203.29",
+    "Debt_change_percperyear": "48.74"
+  },
+  {
+    "id": "9",
+    "President": "William Henry Harrison",
+    "Party": "Whig",
+    "Year": "1841",
+    "Debt_change_total": "0",
+    "Debt_change_perc": "0",
+    "Debt_change_percperyear": "0"
+  },
+  {
+    "id": "8",
+    "President": "Martin Van Buren",
+    "Party": "Democrat",
+    "Year": "1837 - 1841",
+    "Debt_change_total": "4,913,917.71",
+    "Debt_change_perc": "1458.32",
+    "Debt_change_percperyear": "375.32"
+  },
+  {
+    "id": "7",
+    "President": "Andrew Jackson",
+    "Party": "Democrat",
+    "Year": "1829 - 1837",
+    "Debt_change_total": "-58,084,455.84",
+    "Debt_change_perc": "-99.42",
+    "Debt_change_percperyear": "57.71"
+  },
+  {
+    "id": "6",
+    "President": "John Quincy Adams",
+    "Party": "Whig",
+    "Year": "1825 - 1829",
+    "Debt_change_total": "-25,367,019.04",
+    "Debt_change_perc": "-30.28",
+    "Debt_change_percperyear": "-8.28"
+  },
+  {
+    "id": "5",
+    "President": "James Monroe",
+    "Party": "Democratic-Republican",
+    "Year": "1817 - 1825",
+    "Debt_change_total": "-39,703,532.45",
+    "Debt_change_perc": "-32.15",
+    "Debt_change_percperyear": "-4.39"
+  },
+  {
+    "id": "4",
+    "President": "James Madison",
+    "Party": "Democratic-Republican",
+    "Year": "1809 - 1817",
+    "Debt_change_total": "66,468,773.07",
+    "Debt_change_perc": "116.56",
+    "Debt_change_percperyear": "9.07"
+  },
+  {
+    "id": "3",
+    "President": "Thomas Jefferson",
+    "Party": "Democratic-Republican",
+    "Year": "1801 - 1809",
+    "Debt_change_total": "-26,014,858.71",
+    "Debt_change_perc": "-31.33",
+    "Debt_change_percperyear": "-3.87"
+  },
+  {
+    "id": "2",
+    "President": "John Adams",
+    "Party": "Federalist",
+    "Year": "1797 - 1801",
+    "Debt_change_total": "973,571.47",
+    "Debt_change_perc": "1.19",
+    "Debt_change_percperyear": "-0.12"
+  },
+  {
+    "id": "1",
+    "President": "George Washington",
+    "Party": "Independent",
+    "Year": "1789 - 1797",
+    "Debt_change_total": "11,003,970.83",
+    "Debt_change_perc": "15.49",
+    "Debt_change_percperyear": "2.12"
+  }
+]
