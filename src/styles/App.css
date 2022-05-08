@@ -1,0 +1,235 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: minmax(24px,1fr) minmax(400px,1200px) minmax(24px,1fr);
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.App > * {
+  grid-column: 2 / -2;
+}
+
+.Proj {
+  flex-grow: 1;
+}
+
+h1 {
+  font: var(--h1);
+}
+
+h2 {
+  font: var(--h2);
+}
+
+h3 {
+  font: var(--h3);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--text-grey);
+}
+
+h4 {
+  font: var(--h4);
+  margin-bottom:0.5rem;
+  margin-top:0.5rem;
+}
+
+h5 {
+  font: var(--h5);
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+h6 {
+  font: var(--h6);
+  margin:0rem;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+p {
+  font-weight: 300;
+  margin-top:0;
+  margin-bottom:1rem;
+}
+
+header.App__header {
+  margin-top: 3rem;
+  margin-bottom: 0rem;
+}
+
+header {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.App__header > h1 {
+  text-align: left;
+}
+
+.Tooltip {
+  position: relative;
+  width: 260px;
+  border-radius: 3px;
+  padding: 0.75rem;
+  background-color: #fff;
+  color: var(--text-black);
+  text-align: center;
+  box-sizing: border-box;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+  animation-name: Appear;
+  animation-duration: 250ms;
+  opacity: 0;
+}
+
+@keyframes Appear {
+  from {
+    opacity: 0
+  }
+  to {
+    opacity: 1
+  }
+}
+
+
+.Tooltip__header--wrapper > h6 {
+  margin-bottom: 0rem;
+  margin-top: 0;
+  color: #8C939D;
+  letter-spacing: 0.05rem;
+  padding: 0;
+  margin-bottom: 0.15rem;
+  font-weight: 700;
+}
+
+.Tooltip__header--wrapper {
+  border-bottom: 1px solid #B6B8BB;
+  margin-bottom: 0.5rem;
+}
+
+.Tooltip__header--wrapper > p {
+  font-size: 0.7rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  padding-bottom: 0.25rem;
+  padding-top: 0rem;
+  margin: 0;
+  margin-bottom: 0.15rem;
+  color: #9A9292;
+}
+
+.Div__wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 700px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+div {
+  box-sizing:border-box;
+}
+
+.Svg__wrapper {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Svg__wrapper > h5 {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: #fff;
+  border-radius: 8px;
+  background-color: #383838;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  height: inherit;
+  animation-duration: 2s;
+  animation-name: Fillin;
+  animation-fill-mode: forwards;
+}
+
+@keyframes Fillin {
+  from {
+    fill-opacity: .25;
+  }
+  to {
+    fill-opacity: 1;
+  }
+}
+
+circle {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+circle:hover, 
+g:hover > circle {
+  stroke-width: 4px;
+  stroke: #575757;
+}
+
+circle.Republican:hover,
+g.Republican:hover > circle {
+  stroke-width: 4px;
+  stroke: #972323;
+}
+
+circle.Democrat:hover,
+g.Democrat:hover > circle {
+  stroke-width: 4px;
+  stroke: #204884;
+}
+
+
+p.Tooltip__text {
+  font-size: 0.75rem;
+  margin: 0 0;
+  background-color: #fff;
+  border-bottom: 0;
+}
+
+.Tooltip__data {
+  font-weight: 600;
+  font-size: 0.95rem;
+  background-color: #fff;
+}
+
+text {
+  font-size: 0.6rem;
+  cursor: pointer;
+  position: relative;
+  z-index: 100;
+}
+
+@media only screen and (max-width: 1200px) {
+  .Div__wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 1500px;
+  }
+  
+.Svg__wrapper {
+  width: 100%;
+  height: 100%;
+}
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
